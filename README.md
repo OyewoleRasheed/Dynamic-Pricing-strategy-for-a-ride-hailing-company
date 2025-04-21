@@ -1,6 +1,6 @@
 # Dynamic-Pricing-strategy-for-a-ride-hailing-company
 ## 🚀 Project Overview  
-**Ride Price Prediction App** lets you input the number of riders, number of drivers, vehicle type, and expected ride duration to receive an immediate price estimate citeturn0search1. It leverages a **RandomForestRegressor**—an ensemble meta‑estimator combining multiple decision trees for robust regression—implemented via scikit‑learn citeturn0search2.
+**Ride Price Prediction App** lets you input the number of riders, number of drivers, vehicle type, and expected ride duration to receive an immediate price estimate citeturn0search1. It leverages a **RandomForestRegressor**—an ensemble meta‑estimator combining multiple decision trees for robust regression—implemented via scikit‑learn.
 
 ---
 
