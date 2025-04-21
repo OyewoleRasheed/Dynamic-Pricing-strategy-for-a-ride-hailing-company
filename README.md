@@ -13,4 +13,4 @@
 ├── models/                # Serialized model artifacts (e.g., .pkl files)
 └── README.md              # This documentation file
 ```  
-This layout follows standard data‑science README templates for clarity and reproducibility citeturn0search0 citeturn0search12.
+This layout follows standard data‑science README templates for clarity and reproducibility
