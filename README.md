@@ -8,9 +8,6 @@
 ```
 ├── notebook.ipynb         # Original Kaggle notebook with data processing & modeling
 ├── data/                  # Raw and processed datasets
-│   ├── raw/               # Raw ride-hailing data CSVs
-│   └── processed/         # Cleaned data used for training/testing
 ├── models/                # Serialized model artifacts (e.g., .pkl files)
 └── README.md              # This documentation file
 ```  
-This layout follows standard data‑science README templates for clarity and reproducibility
